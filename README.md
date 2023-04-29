@@ -1,4 +1,3 @@
-# Andrew Rueda
 # Predicting a Blockbuster Using Linear Classifiers
 
 ---
