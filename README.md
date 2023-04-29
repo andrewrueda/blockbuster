@@ -1,5 +1,5 @@
 # Andrew Rueda
-# Predicting a Blockbuster
+# Predicting a Blockbuster Using Linear Classifiers
 
 ---
 ## Introduction
