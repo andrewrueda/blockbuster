@@ -1,4 +1,4 @@
-# Predicting a Blockbuster Using Linear Classifiers
+# Predicting a Blockbuster Using Classifiers
 
 ---
 ## Introduction
